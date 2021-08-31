@@ -1,0 +1,10 @@
+## Interface: 20501
+## Title: DucksEmotes
+## Author: Ren/Gazrilla
+## Version: v2
+## SavedVariables: Emoticons_Settings
+## OptionalDeps: LibStub, LibUIDropDownMenu
+
+libs\load_libs.xml
+DucksEmotes.lua
+DucksEmotes.xml
