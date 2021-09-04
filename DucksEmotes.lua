@@ -93,6 +93,7 @@ local defaultpack = {
     [":gnomedave:"] = "Interface\\Addons\\DucksEmotes\\DUCKS\\gnomedave.tga:28:28",
     [":hahaa:"] = "Interface\\Addons\\DucksEmotes\\DUCKS\\hahaa.tga:28:28",
     [":isheh2:"] = "Interface\\Addons\\DucksEmotes\\DUCKS\\isheh2.tga:28:28",
+    [":ishehface:"] = "Interface\\Addons\\DucksEmotes\\DUCKS\\ishehface.tga:28:28",
     [":jerrywhat:"] = "Interface\\Addons\\DucksEmotes\\DUCKS\\jerrywhat.tga:28:28",
     [":KEKc:"] = "Interface\\Addons\\DucksEmotes\\DUCKS\\KEKc.tga:28:28",
     [":kekidan:"] = "Interface\\Addons\\DucksEmotes\\DUCKS\\kekidan.tga:28:28",
@@ -195,6 +196,7 @@ local emoticons = {
     [":gnomedave:"] = ":gnomedave:",
     [":hahaa:"] = ":hahaa:",
     [":isheh2:"] = ":isheh2:",
+    [":ishehface:"] = ":ishehface:",
     [":jerrywhat:"] = ":jerrywhat:",
     [":KEKc:"] = ":KEKc:",
     [":kekidan:"] = ":kekidan:",
@@ -270,10 +272,10 @@ local emoticons = {
 };
     -- 45 per menu max
 local dropdown_options = {
-    [01] = { --40
-        ":autismusmaximus:", ":bogged:", ":cb2077:", ":copium:", ":coronas:", ":damnboy:", ":damnsoi:", ":db24s:", ":db2077:", ":dbmad:", 
+    [01] = { --41
+        ":autismusmaximus:", ":bogged:", ":cb2077:", ":copium:", ":coronas:", ":damnboy:", ":damnsoi:", ":db24s:", ":db2077:", ":dbmad:",
         ":dbshook:", ":duckemoji1cry:", ":duckemoji1headangryeyes:", ":duckemoji1headduckscared:", ":duckemoji1headducksstare:", ":duckemoji1headloveeyes:", ":duckemoji1headyeahright:", ":duckemoji1normal:", ":fallenlootbanned:", ":feelsbadman:", 
-        ":feelskekman:", ":feelswowman:", ":fresh:", ":gamer:", ":gnomedave:", ":hahaa:", ":isheh2:", ":jerrywhat:", ":KEKc:", ":kekidan:", 
+        ":feelskekman:", ":feelswowman:", ":fresh:", ":gamer:", ":gnomedave:", ":hahaa:", ":isheh2:", ":ishehface:", ":jerrywhat:", ":KEKc:", ":kekidan:", 
         ":KEKL:", ":kingCool:", ":kingSad:", ":kingW:", ":maitozchomp:", ":monkachrist:", ":monkafinger:", ":monkaGiga:", ":monkagun:", ":monkahmm:", 
         ":monkaJuoppo:", ":monkas:", ":monkastab:", ":monkasteer:", ":monkaWCB:", ":nopers:", ":peepoknight:", ":peepomom:", ":peepoping:", ":pepeAlliance:"
     },
